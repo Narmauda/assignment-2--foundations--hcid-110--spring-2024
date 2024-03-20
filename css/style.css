@@ -1,0 +1,40 @@
+html {
+  background: black url('../img/test-image.jpg') no-repeat fixed 100% 100%;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  color: aqua;
+  text-shadow: 1px 2px 2px #2300FF;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  color: aqua;
+  text-shadow: 1px 1px 2px #2300FF;
+}
+
+nav {
+  font-size: 18px;
+  border: 2px outset #2300FF;
+  background: #2300FF;
+  border-radius: 2px;
+  width: 110px;
+}
+
+a:link {
+  color: aqua;
+}
+
+a:visited {
+  color: #36013f;
+}
